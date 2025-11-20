@@ -4,12 +4,12 @@ Mind Matters
 
 A mental-health and well-being platform for children and young people
 
-🚀 Project Overview
+# 🚀 Project Overview
 
 I built Mind Matters to empower kids and young lives through accessible, interactive mental-health support. It’s designed to serve as a friendly chatbot + self-assessment platform with features like mood tracking, symptom checks, personalised recommendations and mental-well-being resources.
 I used a modern tech stack (React + Vite + TypeScript) for performance and scalability, and integrated AI models (BERT for emotion detection) and data sources (PsycINFO, Kaggle, Data.gov) to provide meaningful insights and support.
 
-🧠 Key Features
+# 🧠 Key Features
 
 Here’s what Mind Matters can do:
 
@@ -27,7 +27,7 @@ Dashboard: Visualisation of tracked moods, assessment history and progress (Reac
 
 Responsive and performant: Built with Vite + TypeScript to ensure fast UI and smooth experience
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend: React, Vite, TypeScript, Tailwind CSS (or whatever you used)
 
@@ -41,7 +41,7 @@ Deployment: Deployed on Vercel (or specify your hosting)
 
 Visualization: Charts (e.g., Chart.js, Recharts), and state management (e.g., Redux / Context API)
 
-🔍 Architecture & Flow
+ # 🔍 Architecture & Flow
 
 User signs up / logs in (Supabase authentication)
 
@@ -70,7 +70,7 @@ Here’s a simplified breakdown of folder structure (adapt to your actual struct
 /public
   – static assets, images  
 
-✅ Getting Started (Local Setup)
+# ✅ Getting Started (Local Setup)
 
 Clone the repo:
 
@@ -99,27 +99,12 @@ npm run dev
 Open http://localhost:3000
  (or whichever port Vite uses) in your browser.
 
-🎨 Deployment
+# 🎨 Deployment
 
 I deployed the app on Vercel. Simply push to main (or master) branch and Vercel will auto-deploy. Ensure your environment variables are set in the Vercel dashboard.
 
-🌱 Future Enhancements
 
-Here are some features I’m planning to add:
-
-Real-time video chat with a mentor or counsellor
-
-Gamification: badges, streaks for mood check-ins
-
-Multi-language support for wider reach
-
-More advanced personalization via deeper ML models
-
-Parental dashboard (for children’s mental-health monitoring with privacy in mind)
-
-Offline mode / mobile app wrapper
-
-🧑‍🏫 Why This Matters
+# 🧑‍🏫 Why This Matters
 
 Mental health among children and young people is a rising concern globally. I built Mind Matters to:
 
@@ -132,3 +117,7 @@ Leverage AI to personalise support and make resources actionable
 📄 License
 
 This project is licensed under the MIT License – feel free to use, modify and contribute!
+
+
+Thank you for checking out Mind Matters. Together we can empower young lives and build better mental-health awareness.
+— Rithika
