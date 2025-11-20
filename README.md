@@ -21,15 +21,13 @@ Emotion detection: I use a BERT-based model to analyse written inputs and detect
 
 Resource library: Curated articles, breathing exercises, mood-boosting activities
 
-Mentor/Support chat: Optionally connect with a mentor or counselor (if implemented)
-
 Dashboard: Visualisation of tracked moods, assessment history and progress (React + charting)
 
 Responsive and performant: Built with Vite + TypeScript to ensure fast UI and smooth experience
 
 # 🛠️ Tech Stack
 
-Frontend: React, Vite, TypeScript, Tailwind CSS (or whatever you used)
+Frontend: React, Vite, TypeScript, Tailwind CSS
 
 Backend / API: Supabase (authentication + database + real-time)
 
@@ -37,9 +35,8 @@ AI / ML: BERT model (pre-trained + fine-tuned) for emotion detection
 
 Data Sources: PsycINFO, Kaggle datasets, Data.gov for mental-health research & statistics
 
-Deployment: Deployed on Vercel (or specify your hosting)
+Deployment: Deployed on Vercel 
 
-Visualization: Charts (e.g., Chart.js, Recharts), and state management (e.g., Redux / Context API)
 
  # 🔍 Architecture & Flow
 
