@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.perspective-1000 {
+  perspective: 1000px;
+}
+
+@font-face {
+  font-family: 'Handwritten';
+  src: url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+}
+
+.font-handwritten {
+  font-family: 'Caveat', cursive;
+  font-size: 1.2em;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
